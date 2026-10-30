@@ -6,10 +6,10 @@ I enjoy turning ideas into working prototypes, learning through experimentation,
 
 ## Personal projects
 
+- **Personal landing page**: Designed and built my portfolio website. [View the project](https://github.com/Raizudeen-tech/Raizudeen-tech.github.io)
 - **Intelligent Public Transportation App**: Designed a React Native and Node.js concept for passenger chat, buffer-zone alerts, dynamic route updates, personalization, and DBSCAN-based user clustering.
 - **Speech Emotion Recognition**: Experimented with Wav2Vec2, WavLM, PyTorch, and Hugging Face Transformers using CREMA-D and RAVDESS datasets.
 - **Real-Time Speech-to-Text Pipeline**: Built prototype flows with Whisper, WebSockets, Socket.IO, React, asynchronous Python, audio buffering, and Silero VAD.
-- **Talking-Head and Lip-Sync Experiments**: Explored MuseTalk, U-Net-based generation, CodeFormer, FFmpeg, and audio-driven facial animation.
 
 ## Toolbox
 
